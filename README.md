@@ -1,2 +1,3 @@
+![Computron Screen](https://i.imgur.com/sekN75g.png)
 # Computron
-Coming Soon
+More Coming Soon
